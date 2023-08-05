@@ -49,13 +49,10 @@ const flowDiscord = addKeyword(['discord']).addAnswer(
 )
 
 const flowPrincipal = addKeyword(['hola', 'ole', 'alo'])
-    .addAnswer('🙌 Hola bienvenido a este *Chatbot*')
+    .addAnswer('🙌 Hola bienvenido a *mi fafa*')
     .addAnswer(
         [
-            'te comparto los siguientes links de interes sobre el proyecto',
-            '👉 *doc* para ver la documentación',
-            '👉 *gracias*  para ver la lista de videos',
-            '👉 *discord* unirte al discord',
+            'Cómo estás?\nPara nosotros es un gusto atenderte.\nEn un minuto tomaremos tu pedido, este se responde por orden de llegada',
         ],
         null,
         null,

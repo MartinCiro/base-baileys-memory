@@ -1,0 +1,176 @@
+[handleMsg]:  {
+  key: {
+    remoteJid: '573243054842@s.whatsapp.net',
+    fromMe: false,
+    id: '166CB1A15B9832106D6BAABED11B1D7D',
+    participant: undefined
+  },
+  messageTimestamp: 1691274026,
+  pushName: 'Sergio',
+  broadcast: false,
+  message: Message {
+    conversation: 'Hola',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Hola',
+  from: '573243054842'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573205030009@s.whatsapp.net',
+    fromMe: false,
+    id: '68AD6AED6C7E2EFFBA9022D6DFBEE044',
+    participant: undefined
+  },
+  messageTimestamp: 1691279168,
+  pushName: 'Enit',
+  broadcast: false,
+  message: Message {
+    conversation: 'Hola papi como vas con la gatica',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Hola papi como vas con la gatica',
+  from: '573205030009'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573205030009@s.whatsapp.net',
+    fromMe: false,
+    id: '707031977F59BF65A6661D8B06135BD3',
+    participant: undefined
+  },
+  messageTimestamp: 1691279410,
+  pushName: 'Enit',
+  broadcast: false,
+  message: Message {
+    conversation: 'Si verdad  y que  vendes',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Si verdad  y que  vendes',
+  from: '573205030009'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573223065969@s.whatsapp.net',
+    fromMe: false,
+    id: 'F9BCB9E81D3987540364FD2D50AC4930',
+    participant: undefined
+  },
+  messageTimestamp: 1691279564,
+  pushName: 'Cristina 🥰',
+  broadcast: false,
+  message: Message {
+    conversation: 'Holiii',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Holiii',
+  from: '573223065969'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573223065969@s.whatsapp.net',
+    fromMe: false,
+    id: 'B6B4D38C371542697B1CFD5FC453AF1C',
+    participant: undefined
+  },
+  messageTimestamp: 1691279829,
+  pushName: 'Cristina 🥰',
+  broadcast: false,
+  message: Message {
+    imageMessage: ImageMessage {
+      interactiveAnnotations: [],
+      scanLengths: [Array],
+      url: 'https://mmg.whatsapp.net/v/t62.7118-24/33451600_128521936974533_4285756744366664962_n.enc?ccb=11-4&oh=01_AdQpbQD5zy8qcZ8H_kl6XSO25rhmTKeoPWTNatw3EhJZnQ&oe=64F6574C&mms3=true',
+      mimetype: 'image/jpeg',
+      fileSha256: [Uint8Array],
+      fileLength: [Long],
+      height: 1280,
+      width: 720,
+      mediaKey: [Uint8Array],
+      fileEncSha256: [Uint8Array],
+      directPath: '/v/t62.7118-24/33451600_128521936974533_4285756744366664962_n.enc?ccb=11-4&oh=01_AdQpbQD5zy8qcZ8H_kl6XSO25rhmTKeoPWTNatw3EhJZnQ&oe=64F6574C',
+      mediaKeyTimestamp: [Long],
+      jpegThumbnail: [Uint8Array],
+      scansSidecar: [Uint8Array],
+      midQualityFileSha256: [Uint8Array]
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '_event_media__b4260d72-c5b7-48cf-855a-ee2bbe81b352',
+  from: '573223065969'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573223065969@s.whatsapp.net',
+    fromMe: false,
+    id: '453CF0712F78958A4C35BF640C6C37DB',
+    participant: undefined
+  },
+  messageTimestamp: 1691279832,
+  pushName: 'Cristina 🥰',
+  broadcast: false,
+  message: Message {
+    conversation: 'Con cremita',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Con cremita',
+  from: '573223065969'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573223065969@s.whatsapp.net',
+    fromMe: false,
+    id: 'AD2776F342F85431BA3BD2213643E2AA',
+    participant: undefined
+  },
+  messageTimestamp: 1691279836,
+  pushName: 'Cristina 🥰',
+  broadcast: false,
+  message: Message {
+    conversation: 'Jajaja',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Jajaja',
+  from: '573223065969'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573223065969@s.whatsapp.net',
+    fromMe: false,
+    id: '11BB69A9209CC8FD659F7DC140C095A4',
+    participant: undefined
+  },
+  messageTimestamp: 1691279838,
+  pushName: 'Cristina 🥰',
+  broadcast: false,
+  message: Message {
+    conversation: 'Pero bien',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Pero bien',
+  from: '573223065969'
+}
